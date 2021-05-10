@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="687" height="64" src="https://raw.githubusercontent.com/rgbDylan/nodeverse/main/assets/img/menu-logo.png">
+  <img width="687" height="162" src="https://raw.githubusercontent.com/rgbDylan/nodeverse/main/assets/img/menu-logo.png">
 </p>
 
 Nodeverse is a Miiverse Clone programmed in NodeJS, with Miiverse's assets. We are currently learning code, so please be indulgent!
