@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/rgbDylan/nodeverse/main/assets/img/menu-logo.png)
 # Nodeverse
 Nodeverse is a Miiverse Clone programmed in NodeJS, with Miiverse's assets. We are currently learning code, so please be indulgent!
 
